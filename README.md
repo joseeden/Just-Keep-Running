@@ -14,3 +14,6 @@ This is a simple landing page designed for a fictional running event. It include
 - CSS 
 - Bootstrap -->
 
+Screenshot: 
+
+![](Images/screenshot-site.png)
